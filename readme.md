@@ -1,0 +1,1 @@
+## Sequelize ORM testing for fun
